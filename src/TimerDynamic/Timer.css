@@ -1,0 +1,45 @@
+.list-time {
+   margin-top:40px;
+   
+   background-color: darkslategrey;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   font-size: 50px;
+   text-align: center;
+   width: 322px;
+    font-size: 70px;
+    border-radius: 20px;
+    
+    color:white;
+
+  
+
+
+}
+
+.list-time:hover{
+    cursor: pointer;
+    box-shadow: 10px 10px #7F8C8D ;
+    transform: translate(10px,10px)
+    
+}
+
+.time-hour{
+    display:flex;
+    margin: 15px;
+    justify-content: center;
+    color:white;
+}
+
+.times{
+    display: flex;
+    justify-content: center;
+}
+.list{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 25px;
+    opacity:0.7;
+}
